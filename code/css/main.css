@@ -329,3 +329,22 @@ font-size: 1.25rem;
   padding: 0.15rem 1rem;
 }
 
+@media screen and (min-width:992px){
+  .nav-btn{
+    display:none; 
+  }
+
+  .navbar{
+    height: 6rem;
+  }
+
+  .nav-center{
+    display: flex; 
+    align-items: center;
+  }
+
+  .nav-header{
+    height: auto; 
+    margin-right: 2rem; 
+  }
+}
