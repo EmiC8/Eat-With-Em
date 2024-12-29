@@ -261,10 +261,15 @@ Navbar
 */
 
 .navbar{
-
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  background: #FDE992; 
 }
 
 .nav-center{
   width:90vw;
   max-width:var(--max-width);
+  background: #FDEFB2;
+
 }
