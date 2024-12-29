@@ -368,3 +368,31 @@ font-size: 1.25rem;
     margin-right: 0; 
   }
 }
+
+/*
+=============== 
+Page
+===============
+*/
+.page {
+  background:red; 
+}
+
+/*
+=============== 
+Footer
+===============
+*/
+
+.page-footer {
+  height: 4rem; 
+  text-align: center; 
+  background: var(--black); 
+  color: var(--white); 
+}
+
+/*
+=============== 
+
+===============
+*/
