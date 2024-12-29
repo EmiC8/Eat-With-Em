@@ -267,9 +267,9 @@ Navbar
   /* background: #FDE992; */
 }
 
-.nav-center{
-  width:90vw;
-  max-width:var(--max-width);
+.nav-center {
+  width: 90vw;
+  max-width: var(--max-width);
   /* background: #FDEFB2; */
 }
 
@@ -281,7 +281,7 @@ Navbar
 }
 
 .nav-header img {
-  width:200px; 
+  width: 200px; 
 }
 
 .nav-btn {
