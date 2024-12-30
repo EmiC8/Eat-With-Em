@@ -515,7 +515,19 @@ Recipes
   line-height: 1; 
   margin-top: 0.5rem;
   color: var(--grey-500);
+  letter-spacing: var(--letterSpacing);
+}
 
+@media screen and (min-width: 576px){
+  
+}
+
+@media screen and (min-width: 992px){
+  
+}
+
+@media screen and (min-width: 1200px){
+  
 }
 
  /*
