@@ -706,7 +706,7 @@ Single Recipe Page
 
 .recipe-icons {
   font-size: 1.5rem; 
-  color: var(--primary-500); 
+  color: #EFA59A;;
 }
 
 .recipe-icons h5, .recipe-icons p{
@@ -727,7 +727,7 @@ Single Recipe Page
 }
 
 .recipe-tags a {
-  background: var(--primary-500); 
+  background: #EFA59A;
   border-radius: var(--borderRadius); 
   color: var(--white); 
   padding: 0.05rem, 0.5rem; 
@@ -791,7 +791,7 @@ Single Recipe Page
 .single-tool {
   border-bottom: 2px solid var(--grey-300); 
   padding-bottom: 0.75rem; 
-  color: var(--primary-500); 
+  color: var(--grey-700); 
   text: capitalize; 
 
 }
